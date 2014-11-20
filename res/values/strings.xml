@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Tabs</string>
+    <string name="title_activity_main">Android Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="tab1_fragment_string">Content for tab 1</string>
+    <string name="tab2_fragment_string">Content for tab 2</string>
+    <string name="tab3_fragment_string">Content for tab 3</string>
+    <string name="tab4_fragment_string">Content for tab 4</string>
+
+</resources>
