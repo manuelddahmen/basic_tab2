@@ -54,7 +54,7 @@
                     <target>1.7</target>
                     <showDeprecation>true</showDeprecation>
                     <showWarnings>true</showWarnings>
-                    <executable>/home/kleber/jdk1.7.0_55/bin/javac</executable>
+                    <executable>/home/cabox/jdk-14/bin/javac</executable>
                     <fork>true</fork>
                 </configuration>
             </plugin>
