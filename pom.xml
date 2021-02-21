@@ -11,7 +11,7 @@
         <!-- use UTF-8 for everything -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <android.sdk.path>/home/cabox/android-sdk-linux/</android.sdk.path>
+        <android.sdk.path>/home/cabox/android-sdk/</android.sdk.path>
     </properties>
 
     <dependencies>
@@ -26,7 +26,7 @@
            <artifactId>support-v4</artifactId>
            <version>20.0.0</version>
            <scope>system</scope>
-           <systemPath>/home/cabox/android-sdk-linux/extras/android/support/v4/android-support-v4.jar</systemPath>
+           <systemPath>/home/cabox/android-sdk/extras/android/support/v4/android-support-v4.jar</systemPath>
         </dependency>
     </dependencies>
 
